@@ -3,7 +3,7 @@ Team: Hong Huang, Xinyi Chen, Xintian Shen, Zhihao Yin
 Data Mining in Rotten Tomatoes Movie Reviews &amp; Sentiment Analysis &amp; Insight of Audience And Critics 
 
 ## Dataset
-We utilize SELENIUM to accomplish review data crawling from Rotten Potatoes. Mining_critics.ipynb, mining_audience.ipynb and rate_audience.ipynb are used for getting critic reviews, audience reviews and audience grade respectly. 
+We utilize SELENIUM to accomplish review data crawling from Rotten Tomatoes. Mining_critics.ipynb, mining_audience.ipynb and rate_audience.ipynb are used for getting critic reviews, audience reviews and audience grade respectly. 
 
 ## Sentiment Anaylsis
 Sentiment mining is used for sentiment analysis by senti_final.ipynb. After running this code, we can get sentiment rates, which include 'positive rate', 'neutral rate' and 'negative rate', for every sentences. Then save it into a Excel.
